@@ -1,13 +1,13 @@
 [02-11-2025]
 
-      STAX COMMUNICATIONS BRINGS YOU...
+      I BRING YOU, TOR HIDDEN SERVICES...
             ████████╗ ██████╗ ██████╗ 
             ╚══██╔══╝██╔═══██╗██╔══██╗
                ██║   ██║   ██║██████╔╝
                ██║   ██║   ██║██╔══██╗
                ██║   ╚██████╔╝██║  ██║
                ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                        THE ONION ROUTER
+                        THE ONION ROUTER...
                                             INNOVATORS IN PRIVACY TEKNOLOGY
                                             EXPERTS IN DIGITAL FREEDOM
                                             GENERAL ALL-AROUND COOL D00DZ
@@ -16,7 +16,7 @@
                                ║ hidden_svc.txt ║
              ╒═─═─═─═─═─═─═─═─═╩─═─═─═─═─═─═─═─╩═─═─═─═─═─═─═─═─═╕
              ┃   This file is presented for educational purposes  ┃
-             ┃      only. stax takes no responsibility for the    ┃
+             ┃      only. I take no responsibility for the    ┃
              ┃     use of the information in this file. Hosting   ┃
              ┃   a Tor hidden service is legal. What you choose   ┃
              ┃   to host is your responsibility. Stay legal, stay ┃
@@ -865,7 +865,7 @@ HiddenServicePort 80 127.0.0.1:80
       clearnet links your real IP to your hidden service.
 
     ✗ NEVER REUSE USERNAMES
-      If you use "stax" on clearnet and "stax" on Tor, you've linked the
+      If you use "lucky" on clearnet and "lucky" on Tor, you've linked the
       identities. Use completely different usernames.
 
     ✗ NEVER HOST ILLEGAL CONTENT
@@ -1296,13 +1296,14 @@ HiddenServicePort 80 127.0.0.1:80
 
     Final thought, host responsibly, stay anonymous, and help others learn.
     GLHF
-    <3 stax
+    <3 lucky89144
     [pub.inbox@proton.me]
 
     [TOR]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[TOR]
 
     greets to all the hidden service operators out there keeping the
     dream alive ;-*
+
 
 
 
